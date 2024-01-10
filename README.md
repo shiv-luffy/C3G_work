@@ -1,1 +1,5 @@
-# C3G_work
+## C3 Glomerulopathy in children
+
+### 
+
+<img src='images/c3g.jpg'>
